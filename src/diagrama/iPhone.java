@@ -4,7 +4,6 @@ import diagrama.AparelhoTelefonico;
 import diagrama.NavegadorInternet;
 import diagrama.ReprodutorMusical;
 
-
 public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
     //AparelhoTelefonico
     public void ligar(String numero) {
